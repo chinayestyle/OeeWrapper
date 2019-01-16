@@ -1,0 +1,10 @@
+c:\users\yytcadm\documents\visual studio 2012\Projects\WindowsFormsApplication1\OeeWrapper\bin\Debug\OeeWrapper.dll
+c:\users\yytcadm\documents\visual studio 2012\Projects\WindowsFormsApplication1\OeeWrapper\bin\Debug\OeeWrapper.pdb
+c:\users\yytcadm\documents\visual studio 2012\Projects\WindowsFormsApplication1\OeeWrapper\obj\Debug\OeeWrapper.csprojResolveAssemblyReference.cache
+c:\users\yytcadm\documents\visual studio 2012\Projects\WindowsFormsApplication1\OeeWrapper\obj\Debug\OeeWrapper.dll
+c:\users\yytcadm\documents\visual studio 2012\Projects\WindowsFormsApplication1\OeeWrapper\obj\Debug\OeeWrapper.pdb
+C:\Users\yytcadm\Documents\Visual Studio 2015\Projects\OeeWrapper\bin\Debug\OeeWrapper.dll
+C:\Users\yytcadm\Documents\Visual Studio 2015\Projects\OeeWrapper\bin\Debug\OeeWrapper.pdb
+C:\Users\yytcadm\Documents\Visual Studio 2015\Projects\OeeWrapper\bin\Debug\Interop.Oeecli.dll
+C:\Users\yytcadm\Documents\Visual Studio 2015\Projects\OeeWrapper\obj\Debug\OeeWrapper.dll
+C:\Users\yytcadm\Documents\Visual Studio 2015\Projects\OeeWrapper\obj\Debug\OeeWrapper.pdb
